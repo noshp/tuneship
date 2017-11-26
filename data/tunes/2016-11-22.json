@@ -1,29 +1,0 @@
-[
-    {
-        "type": "message",
-        "user": "U18VAQPB9",
-        "text": "<https:\/\/soundcloud.com\/soulection\/soulection-radio-show-282>",
-        "attachments": [
-            {
-                "service_name": "SoundCloud",
-                "service_url": "http:\/\/soundcloud.com",
-                "title": "Soulection Radio Show #282 (Live from Berlin, Germany) by SOULECTION",
-                "title_link": "https:\/\/soundcloud.com\/soulection\/soulection-radio-show-282",
-                "author_name": "SOULECTION",
-                "author_link": "https:\/\/soundcloud.com\/soulection",
-                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000191118447-jw8b6o-t500x500.jpg",
-                "text": ":arrow_forward: Soulection ~ The Sound of Tomorrow\n :arrow_forward: Watch our Interview Sessions: \n:arrow_forward:  |  \n➜ Show #282 Track List: \n :arrow_forward: Discover: @joekay\n\n** Soulection Radio Shows on Beats 1 are archived here 6 days after they air live on Saturday from 7pm-9pm Pacific**\n\n****Track Lists are now at the top of this description in a Bitly PDF link****\n\n→ If you are interested in hearing all of our recent shows go here: \n\n→ If you are looking to download the show go here: \n\n→ Stay tuned to our site for more info on tour dates, releases, and much more via \n\n→ Find us on Instagram to see what goes on behind the scenes: \n\n→ Photo by  Design by @Sangobeats\n\n→ We want you to get involved with the Soulection Radio Cover designs. If you have a dope photo or design that you think fits us, find us on IG and hashtag: 'SoulectionRadio'",
-                "fallback": "SoundCloud Audio: Link: Soulection Radio Show #282 (Live from Berlin, Germany) by SOULECTION",
-                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F290452203&show_artwork=true&maxheight=150\"><\/iframe>",
-                "audio_html_width": 100,
-                "audio_html_height": 150,
-                "from_url": "https:\/\/soundcloud.com\/soulection\/soulection-radio-show-282",
-                "thumb_width": 500,
-                "thumb_height": 500,
-                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
-                "id": 1
-            }
-        ],
-        "ts": "1479829061.000005"
-    }
-]
