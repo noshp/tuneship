@@ -1,6 +1,7 @@
 from os.path import join, isfile
 from flask import Flask, render_template, make_response, jsonify
 from flask_sqlalchemy import SQLAlchemy
+from flask_restless import APIManager
 
 #Config
 
@@ -14,3 +15,9 @@ else:
 db = SQLAlchemy(app)
 
 from tuneship import views
+from tuneship.models import *
+
+#Create the Flask-Restless API Manager
+manager = APIManager(app, flask_sqlalchemy_db=db)
+
+manager.create_api(Data, methods=['GET'])

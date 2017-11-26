@@ -1,0 +1,35 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/dealerdemusique\/sets\/funky-friday-22>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "Funky Friday #22 by Dealer de Musique",
+                "title_link": "https:\/\/soundcloud.com\/dealerdemusique\/sets\/funky-friday-22",
+                "author_name": "Dealer de Musique",
+                "author_link": "https:\/\/soundcloud.com\/dealerdemusique",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000202822998-08aild-t500x500.jpg",
+                "text": "HOUSE, NU-DISCO & MORE\n\nFind Funky Friday on Spotify: \n\n",
+                "fallback": "SoundCloud Audio: Link: Funky Friday #22 by Dealer de Musique",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F291418500&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/dealerdemusique\/sets\/funky-friday-22",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1484329927.000027"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "funk out",
+        "ts": "1484329937.000029"
+    }
+]

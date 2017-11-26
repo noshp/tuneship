@@ -1,0 +1,67 @@
+[
+    {
+        "type": "message",
+        "user": "U1XRS5MCM",
+        "text": "Listen to \"trash mix of trash beats\" by j.robb #np on #SoundCloud\n<https:\/\/soundcloud.com\/jrobbdaproducer\/trash>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "\"trash mix of trash beats\" by j.robb",
+                "title_link": "https:\/\/soundcloud.com\/jrobbdaproducer\/trash",
+                "author_name": "j.robb",
+                "author_link": "https:\/\/soundcloud.com\/jrobbdaproducer",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000242880861-b9nuxe-t500x500.jpg",
+                "text": "ALL THESE SONGS ARE MY UNRELEASED GEMS THAT IM NOT THE BIGGEST FAN OF\n\nlmao pure garbage...\n\nleaving this up until nov 3\n\nfeatured artists: \n@devintracy\n@macayres\n@therealbowtye\n@blunovember\n@lft-solis\n@zaethephilosopher\n@jamvvis\n@hxns",
+                "fallback": "SoundCloud Audio: \"trash mix of trash beats\" by j.robb",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F342637096&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/jrobbdaproducer\/trash",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1508989717.000141"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "Jrobb is sickk",
+        "ts": "1508989821.000105"
+    },
+    {
+        "type": "message",
+        "user": "U1XRS5MCM",
+        "text": "Ya. I quite am liking all these remixes that apparently he thinks are shit lol",
+        "ts": "1508989871.000153"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/youtu.be\/3M_5oYU-IsU>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "BIG SHAQ - MANS NOT HOT (MUSIC VIDEO)",
+                "title_link": "https:\/\/youtu.be\/3M_5oYU-IsU",
+                "author_name": "Michael Dapaah",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCtbuBqecjAUJcm27GOJN4Tg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/3M_5oYU-IsU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: BIG SHAQ - MANS NOT HOT (MUSIC VIDEO)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/3M_5oYU-IsU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" gesture=\"media\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/3M_5oYU-IsU",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1508991271.000082"
+    }
+]

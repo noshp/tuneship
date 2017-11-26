@@ -1,0 +1,54 @@
+[
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "<https:\/\/www.youtube.com\/watch?v=C2inNYauU1o>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Philip Glass - Metamorphosis 1",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=C2inNYauU1o",
+                "author_name": "Elliott Walsh",
+                "author_link": "https:\/\/www.youtube.com\/user\/elliottwalsh",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/C2inNYauU1o\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Philip Glass - Metamorphosis 1",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/C2inNYauU1o?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=C2inNYauU1o",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1502220752.769840"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/youtu.be\/KZnou4zthz4?list=PLmzZcj2GiRElMlx9Z5lLyu_qRkBrXPPR9>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "KAYTRANADA - LITE SPOTS",
+                "title_link": "https:\/\/youtu.be\/KZnou4zthz4?",
+                "author_name": "KAYTRANADA",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCJwaqVwGHi73m-WQWK3QODw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/KZnou4zthz4\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: KAYTRANADA - LITE SPOTS",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/KZnou4zthz4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/KZnou4zthz4?",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1502225029.102809"
+    }
+]

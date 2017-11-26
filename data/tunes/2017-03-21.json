@@ -1,0 +1,221 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/complexion\/the-future-beats-show-144>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "The Future Beats Show 144 by Complexion",
+                "title_link": "https:\/\/soundcloud.com\/complexion\/the-future-beats-show-144",
+                "author_name": "Complexion",
+                "author_link": "https:\/\/soundcloud.com\/complexion",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000213628263-eg3mep-t500x500.jpg",
+                "text": "You can listen back to previous episodes of #TFBS at \n\n➤  |  | \n\nOnra - TFBS Intro\nAso - Sun In My Face\nJrco Gco - Shawtywnaridewitme\nVanilla - Blue Sun\nMono:Massive - Attila\nElijah Nang - Haru\nDj Grumble - Outrun (2X)\nPhilanthrope - Sodium (Feat. Tesk)\nSouloue. - Hours.\nMattdeguia - Mood\nJasper Staal X J-Rican - Confirmation\nMichael Akhari - Do For U\nCodxinx. - Stride W\/ Goldy\nNtrltaste - Needing You\nSorsari - Know Your Worth\nWhispa - Ariel \nAbsoluteterror - Terror N Boujee\nAbsoluteterror - Cloud\nJaël - Need Or Needed Me?\nMaster Rylle - Risada Pra Mim\nNarco - Amor E Mec\nDkvpz - Bonde Do Neo Soul\nNtrltaste - Don't Stop\nJared Jackson - Ndovu Do Sul\nShoki - Sad\nGin$Eng - Everlasting \nE.Doza (Bootlegs) - Don't\/Young\nBaaskat - Stryman\nIdntrmmbr. - 2:06 A.M. :hearts:\n3Lo & Hadiya - Acid Venom (Ft. Atlas Greene)\nInstupendo - Save.\nThunder6 - She\nKhaki - Peek W\/ Occupé Ft. Elijah Daxx\nKaelin Ellis - Everything\nMonte Booker - Butta\nKrs. Remixes - Krs. + Frank Joint\nLate June - Why Bother\nPaulie - Idw Talk\nJoe Nora - Wish You'd Leave Me Alone (W\/ Alone Time)\nHarris Cole - Goodbye\nJasper Staal X J-Rican - Confirmation",
+                "fallback": "SoundCloud Audio: Link: The Future Beats Show 144 by Complexion",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F313485212&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/complexion\/the-future-beats-show-144",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1490096475.111634"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "lol i see you michelle reposting on soundcloud :eyes: , its good stuff",
+        "ts": "1490110441.862944"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "chilledcow",
+        "ts": "1490110725.989743"
+    },
+    {
+        "type": "message",
+        "user": "U1XRS5MCM",
+        "text": "magine gunters on a chilledcow",
+        "ts": "1490111883.499902",
+        "reactions": [
+            {
+                "name": "gunter",
+                "users": [
+                    "U1X4W9U3V"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "lol i want to make a mix with just gunters on a loop now",
+        "edited": {
+            "user": "U18VAQPB9",
+            "ts": "1490111952.000000"
+        },
+        "ts": "1490111936.523424"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "Wilfred and I are getting lunch ",
+        "ts": "1490112117.609627"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "Yall want to join ",
+        "ts": "1490112132.616151"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "i brought lunch",
+        "ts": "1490112136.618692"
+    },
+    {
+        "type": "message",
+        "user": "U1XRS5MCM",
+        "text": "same",
+        "ts": "1490112167.633683"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "Sadness",
+        "ts": "1490112187.642469"
+    },
+    {
+        "text": "<http:\/\/media0.giphy.com\/media\/WBeGELD0ezW8w\/giphy.gif>",
+        "attachments": [
+            {
+                "fallback": "500x274px image",
+                "image_url": "http:\/\/media0.giphy.com\/media\/WBeGELD0ezW8w\/giphy.gif",
+                "image_width": 500,
+                "image_height": 274,
+                "image_bytes": 1265829,
+                "is_animated": true,
+                "from_url": "http:\/\/media0.giphy.com\/media\/WBeGELD0ezW8w\/giphy.gif",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1490112187.642499"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/infinitblog-remixes\/infinit-session-17-mixed-by-taimles>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "INFINIT Session #17 (mixed By Taimles) by INFINIT Remixes &amp; Gems",
+                "title_link": "https:\/\/soundcloud.com\/infinitblog-remixes\/infinit-session-17-mixed-by-taimles",
+                "author_name": "INFINIT Remixes & Gems",
+                "author_link": "https:\/\/soundcloud.com\/infinitblog-remixes",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000212182333-h61688-t500x500.jpg",
+                "text": "∞ INFINIT - 25\/8 GOOD VIBES |  ∞\n:arrow_forward: Discover our Youtube Channel: \n:arrow_forward: Discover @infinitblog @taimles\n:arrow_forward:  | \n➜ Tracklist: \n\n→ Free Download: \n\n→ If you are interested in hearing all of our Sessions go here: \n\n→ Picture by Alexander Videnov:\n\n\nThis mix is FOR PROMOTIONAL USE ONLY. We do not own or claim to own the rights to these tracks.\n\n\"Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.\"",
+                "fallback": "SoundCloud Audio: Link: INFINIT Session #17 (mixed By Taimles) by INFINIT Remixes & Gems",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F311983965&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/infinitblog-remixes\/infinit-session-17-mixed-by-taimles",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1490115796.175281"
+    },
+    {
+        "type": "message",
+        "user": "U1XRS5MCM",
+        "text": "mix is lit",
+        "ts": "1490117781.997949"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "",
+        "bot_id": "B1A7GDMGS",
+        "attachments": [
+            {
+                "fallback": "giphy: http:\/\/giphy.com\/gifs\/fire-house-zapatoverde-d3MKIaKT8NO26pDW",
+                "image_url": "https:\/\/media4.giphy.com\/media\/d3MKIaKT8NO26pDW\/giphy.gif",
+                "image_width": 500,
+                "image_height": 500,
+                "image_bytes": 333878,
+                "is_animated": true,
+                "title": "LIT",
+                "footer": "Posted using \/giphy | GIF by <https:\/\/giphy.com\/rodrigoaguilar\/|zapatoverde>",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/fire-house-zapatoverde-d3MKIaKT8NO26pDW"
+            }
+        ],
+        "ts": "1490117811.010304"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "<https:\/\/www.youtube.com\/watch?v=kBnJnXq4YQ8>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Linkin Park &amp; Jay-Z - Points Of Authority\/99 Problems\/One Step Closer",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=kBnJnXq4YQ8",
+                "author_name": "BellaLì",
+                "author_link": "https:\/\/www.youtube.com\/user\/ItalianDJD",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/kBnJnXq4YQ8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Linkin Park & Jay-Z - Points Of Authority\/99 Problems\/One Step Closer",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/kBnJnXq4YQ8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=kBnJnXq4YQ8",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1490127995.852307"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "<https:\/\/www.youtube.com\/watch?v=KfoYUfzIir0>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "DJ Krush - Green Rain",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=KfoYUfzIir0",
+                "author_name": "oaktownpull",
+                "author_link": "https:\/\/www.youtube.com\/user\/oaktownpull",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/KfoYUfzIir0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: DJ Krush - Green Rain",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/KfoYUfzIir0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=KfoYUfzIir0",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1490128094.887068"
+    }
+]

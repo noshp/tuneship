@@ -1,0 +1,35 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/kaytranada\/0001a>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "0.001% ??? by KAYTRANADA",
+                "title_link": "https:\/\/soundcloud.com\/kaytranada\/0001a",
+                "author_name": "KAYTRANADA",
+                "author_link": "https:\/\/soundcloud.com\/kaytranada",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000184191112-8wt3f9-t500x500.jpg",
+                "text": "beats, loops, remixes and sounds made during the process of 99.9%",
+                "fallback": "SoundCloud Audio: Link: 0.001% ??? by KAYTRANADA",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F284034935&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/kaytranada\/0001a",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1474839367.000002"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "serious headboppin with kaytranada",
+        "ts": "1474839376.000004"
+    }
+]

@@ -1,0 +1,87 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "this is quite pleasant dafuq",
+        "thread_ts": "1508442066.000310",
+        "parent_user_id": "U1XRS5MCM",
+        "ts": "1509477702.000606"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "suchmos is on apple music gg this is my entrance to J-Pop",
+        "ts": "1509478967.000529"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "thanks <@U1XRS5MCM>",
+        "ts": "1509478972.000169"
+    },
+    {
+        "text": "<http:\/\/gph.is\/2f08sRv>",
+        "attachments": [
+            {
+                "service_name": "Giphy",
+                "service_url": "http:\/\/giphy.com\/",
+                "image_url": "https:\/\/media2.giphy.com\/media\/3ov9kbnFwciNXERuEw\/giphy.gif",
+                "image_width": 500,
+                "image_height": 400,
+                "image_bytes": 2043394,
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/terrace-house-nande-ryuta-3ov9kbnFwciNXERuEw",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/giphy.png",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1509478972.000265"
+    },
+    {
+        "type": "message",
+        "user": "U1XRS5MCM",
+        "text": "thank terrace house",
+        "ts": "1509478998.000098"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "fucking terrace house",
+        "ts": "1509479023.000567"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "taking over life",
+        "ts": "1509479026.000355"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/qooqi0325\/qooqi-city-night-music>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "Qooqi CITY NIGHT MUSIC by Qooqi",
+                "title_link": "https:\/\/soundcloud.com\/qooqi0325\/qooqi-city-night-music",
+                "author_name": "Qooqi",
+                "author_link": "https:\/\/soundcloud.com\/qooqi0325",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000107387474-icacic-t500x500.jpg",
+                "text": "J-HIPHOP&J-R&B\n “CITY NIGHT DJ MIX”\n\nMIX by Qooqi\n\nTRACKLIST\n1,Rollin' Rollin' (ドリアンの終わらないアーバンソウル)\/七尾旅人 & やけのはら\n2,ヤマタツ\/KAKATO\n3,balloon (Avec Avec Remix)\/泉まくら\n4,Everyday\/Givvn\n5,太陽のシワザ feat. PUNPEE\/LUVRAW & BTB\n6,Escape (DJ Watarai Remix)\/MISIA\n7,Been so long (DJ Hasebe remix)\/m-flo \n8,ちゅうぶらりん\/サイプレス上野とロベルト吉野 Feat. 後藤まりこ\n9,Pool (MAGICALGANG REWORK)\/THE OTOGIBANASHI'S\n10,Shimin Pool\/okadada\n11,Coin Laundry (feat. TOKYO HEALTH CLUB)\/YOSA\n12,ダンシンスルーザナイト\/Dancinthruthenights\n13,水星\/tofubeats Feat. オノマトペ大臣\n14,友達 (feat. LIL KOHH)\/KOHH\n15,WhiteLine\/daoko\n16,花と雨 (SUBZERO remix)\/Seeda\n17,母ちゃん feat. 神門\/Fragment\n18,Pellicule\/神門\n19,Pellicule\/不可思議\/Wonderboy\n20,Good fellows\/Zao\n21,ゆれる feat. 田我流\/EVISBEATS",
+                "fallback": "SoundCloud Audio: Qooqi CITY NIGHT MUSIC by Qooqi",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F192086126&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/qooqi0325\/qooqi-city-night-music",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1509480654.000356"
+    }
+]

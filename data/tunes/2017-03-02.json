@@ -1,0 +1,55 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/fadermedia\/fader-mix-ducko-mcfli>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "FADER Mix: Ducko McFli by The FADER",
+                "title_link": "https:\/\/soundcloud.com\/fadermedia\/fader-mix-ducko-mcfli",
+                "author_name": "The FADER",
+                "author_link": "https:\/\/soundcloud.com\/fadermedia",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000210045302-sf968m-t500x500.jpg",
+                "text": "Interview and tracklist: ",
+                "fallback": "SoundCloud Audio: Link: FADER Mix: Ducko McFli by The FADER",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F310003072&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/fadermedia\/fader-mix-ducko-mcfli",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1488471736.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1908M6PL",
+        "text": "<https:\/\/www.youtube.com\/watch?v=kq7cQNO0gYc>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Samurai Champloo - Lofi HipHop Mix • Nujabes inspired",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=kq7cQNO0gYc",
+                "author_name": "Ambition",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC4X7J9D6VbTIwnFDFNkfQ1A",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/kq7cQNO0gYc\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Samurai Champloo - Lofi HipHop Mix • Nujabes inspired",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/kq7cQNO0gYc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=kq7cQNO0gYc",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1488500539.000026"
+    }
+]

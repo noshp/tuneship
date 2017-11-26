@@ -1,0 +1,145 @@
+[
+    {
+        "user": "U18VAQPB9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U18VAQPB9> has joined the channel",
+        "ts": "1463583316.000002"
+    },
+    {
+        "user": "U18VAQPB9",
+        "purpose": "post your tunes here",
+        "type": "message",
+        "subtype": "channel_purpose",
+        "text": "<@U18VAQPB9> set the channel purpose: post your tunes here",
+        "ts": "1463583316.000003"
+    },
+    {
+        "user": "U1908M6PL",
+        "inviter": "U18VAQPB9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U1908M6PL> has joined the channel",
+        "ts": "1463583316.000004"
+    },
+    {
+        "user": "U18V2LAAJ",
+        "inviter": "U18VAQPB9",
+        "type": "message",
+        "subtype": "channel_join",
+        "text": "<@U18V2LAAJ> has joined the channel",
+        "ts": "1463583316.000005"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<!channel>: dis what i work to <https:\/\/soundcloud.com\/squadgoalsmusic\/future-funk-dj-mix>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "Future Funk Dj Mix by SQUAD GOALS",
+                "title_link": "https:\/\/soundcloud.com\/squadgoalsmusic\/future-funk-dj-mix",
+                "author_name": "SQUAD GOALS",
+                "author_link": "https:\/\/soundcloud.com\/squadgoalsmusic",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000133325455-n8y3gf-t500x500.jpg",
+                "text": "Ultimate Future Funk Hour Long DJ Mix\n\n1. Fibre - Supernatural\n2. Night Tempo - Dreamer\n3. Cape Coral - Lovely Slut\n4. SUPERSEX420 - セクシーな女神\n5. Night Tempo - Night Cruising\n6. マクロスMACROSS 82-99 - 葛城 ミサトYEBISU (YUNG BAE EDIT)\n7. マクロスMACROSS 82-99 \/\/ スペースディスコ『82.99 FM』\n8. Levantine - Midnight (Agent Stereo Remix)\n9. ローマンRoman - Neon Touch\n10. ID Cℎίℯƒ - That's what you do\n11. ID Cℎίℯƒ - Honey\n12. Internet Affairs - H o l d o n ダーリン\n13. ΣƶɦĂk - カラー THIS IS THE FUTURE\n14. Modjo - Lady (悲しい ANDROID - APARTMENT¶ Remix)\n15. SUPERSEX420 - 私は性交のような高いPa r ty おっぱい\n16. AnTgry - DANCE!\n17. ΛDRIΛNWΛVE - leave it 2 U\n18. Flamingosis x Yung Bae - Groovin\n19. Soul Bells &amp; マクロスMACROSS 82-99 - Groove City-溝都市 \n20. Ichi No Yoru - Rush\n21. AnTgry - Like Me\n22. コンシャスTHOUGHTS - I Miss You\n23. Aritus - Summer With You\n24. Aritus x コンシャスTHOUGHTS - You Are The Winner Of My Heart\n25. Tendencies - I Need You\n26. Agent Stereo - Thinking Of You\n27. ΛDRIΛNWΛVE - it's good to see you again!!\n28. Desired - Never Fall In Love Again (ft. コンシャスTHOUGHTS)",
+                "fallback": "SoundCloud Audio: Link: Future Funk Dj Mix by SQUAD GOALS",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F229232562&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/squadgoalsmusic\/future-funk-dj-mix",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "id": 1
+            }
+        ],
+        "ts": "1463583335.000006"
+    },
+    {
+        "type": "message",
+        "user": "U1908M6PL",
+        "text": "This is what alex got me onto last week:<https:\/\/www.youtube.com\/watch?v=zRizLb6bImI&amp;spfreload=10>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Nosaj Thing - 'Home' LP (Full Album Stream)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=zRizLb6bImI&amp;spfreload=10",
+                "author_name": "Innovative Leisure",
+                "author_link": "https:\/\/www.youtube.com\/user\/InnovativeLeisureRec",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/zRizLb6bImI\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Nosaj Thing - 'Home' LP (Full Album Stream)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/zRizLb6bImI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=zRizLb6bImI&amp;spfreload=10",
+                "id": 1
+            }
+        ],
+        "ts": "1463584790.000008"
+    },
+    {
+        "type": "message",
+        "user": "U1908M6PL",
+        "text": "<@U18VAQPB9> I heard the first 3 seconds of what you sent and was like \"Yeah I'm listening to this instead now\"",
+        "ts": "1463584852.000010"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "lmaoo",
+        "ts": "1463584873.000011"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "Lololol",
+        "ts": "1463584891.000012"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "yeahh ive been listening to this future-funk thing for a while now, just puts me in the groove for work",
+        "ts": "1463584900.000013"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "follow me on soundcloud to hear more of this shit: <http:\/\/soundcloud.com\/sooonall|soundcloud.com\/sooonall>",
+        "ts": "1463584926.000014"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/sooonall\/likes>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "sooonall",
+                "title_link": "https:\/\/soundcloud.com\/sooonall\/likes",
+                "author_name": "sooonall",
+                "author_link": "https:\/\/soundcloud.com\/sooonall",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/avatars-000216277071-gcf0co-t500x500.jpg",
+                "fallback": "SoundCloud Audio: Link: sooonall",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F4802322&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/sooonall\/likes",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "id": 1
+            }
+        ],
+        "ts": "1463584941.000015"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "btw",
+        "ts": "1463592587.000017"
+    }
+]

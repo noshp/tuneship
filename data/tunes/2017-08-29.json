@@ -1,0 +1,35 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/thunderstone-radio\/fnk3>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "THE FUNKSHUN VOL. 3 | MIXED BY K-$ADILLA &amp; CURATED BY BLR &amp; K-$ADILLA (8\/17\/17 | FUTURE FUNK MUSIC) by THUNDERSTONE RADIO",
+                "title_link": "https:\/\/soundcloud.com\/thunderstone-radio\/fnk3",
+                "author_name": "THUNDERSTONE RADIO",
+                "author_link": "https:\/\/soundcloud.com\/thunderstone-radio",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000238761879-xepn6m-t500x500.jpg",
+                "text": "Get hip, get funky, get wild folks, it's the Funkshun Vol.3! This tape is full of all the future funk, disco, vaporwave, essentially all the funky ass bangers you need to shake that ass, like it's 1975 and we at a cocaine filled club in Miami with jheri curl juice washing the floor--I digress. But, fuck it, just make sure that chest meat is out and your Soul Glow ready, god dammit, because you're about to ride that Funkshun for a funky lit ass time on Thunderstone Radio. \n\nTracklist:\n1. Johnny Bravo (prod. psymun & sen 09) - Dizzy Fae\n2. This Way - Silo\n3. When There's No Love - Ourra & Andre Espeut\n4. Burn - Ma Board Olympic & Childhood\n5. Disco Panettone - Pablo J & The Lobsterettes\n6. Anything - Costanza\n7. MC Lan curtindo os Anos 80 - PMM\n8. Need You - Kattch & Friends ft. Classic Files\n9. Yo Bene - Lewis OfMan\n10. In My Life - Childhood\n11. Half Way - SUPERSEX420\n12. My Love is You - P r e l u d e 8 8\n13. Love Competition - Kamron Schrader\n14. My Heart is Yours - BAYWATCH\n15. Saturday - SERIIE\n16. あなたの愛\/Your Love - 学校のとやま \/ Skule-Toyama\n17. BBYLUV - Childhood\n18. Nights Over Tokyo - Jelly BonBon\n19. Extra - Kaiju Club\n20. Say To Me - Le Phunk\n21. Gimme Gimme - Otoyo",
+                "fallback": "SoundCloud Audio: THE FUNKSHUN VOL. 3 | MIXED BY K-$ADILLA & CURATED BY BLR & K-$ADILLA (8\/17\/17 | FUTURE FUNK MUSIC) by THUNDERSTONE RADIO",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F338342585&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/thunderstone-radio\/fnk3",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1504032191.000265"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "yo boi K-$ADILLA be back wit em hits",
+        "ts": "1504032206.000081"
+    }
+]

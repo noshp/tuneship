@@ -1,0 +1,29 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/soulection\/sets\/promise-once-more>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "Promise Once More by SOULECTION",
+                "title_link": "https:\/\/soundcloud.com\/soulection\/sets\/promise-once-more",
+                "author_name": "SOULECTION",
+                "author_link": "https:\/\/soundcloud.com\/soulection",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000205321928-gsjje4-t500x500.jpg",
+                "text": ":arrow_forward: Soulection ~ The Sound of Tomorrow\n :arrow_forward:  |  \n:arrow_forward: DL Compilation: \n:arrow_forward: Discover: @dapdabeatx & @mrmarstoday\n\nThis week celebrates 6 years of Soulection and we wanted to start off the new year with new music.\n\nPromise Once More highlights our generations constant battle between situationship vs relationship. Enjoy a new era of sounds and storytelling.\n\nSpecial thanks to the talented artists who helped shape this compilation: @iamnobodi, @insightfulone, @davebmusic, @beatsbyesta, @jrobbdaproducer, @beya-likhari, @ishdarr, @nyodus, @therealbowtye, @thisisjaredjackson, @orijanus, @romderful, @jarreauvandal, @emmavie100, @sivey, @starro, @kyledion, @dapdabeatx, @mrmarstoday, @mrnajiboy, @jameschatburn\n\n◈ Artwork: @andrepower \n◈ Most songs Mixed & Mastered by Classick Studios @classick-studios \n◈ Check out more: ",
+                "fallback": "SoundCloud Audio: Link: Promise Once More by SOULECTION",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F295816931&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/soulection\/sets\/promise-once-more",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1485722313.000022"
+    }
+]

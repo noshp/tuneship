@@ -1,0 +1,87 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/pallettunes\/soulchef-franki-valli-1>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "Soulchef - Franki Valli by Pallet Tunes",
+                "title_link": "https:\/\/soundcloud.com\/pallettunes\/soulchef-franki-valli-1",
+                "author_name": "Pallet Tunes",
+                "author_link": "https:\/\/soundcloud.com\/pallettunes",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000181439541-ejdscx-t500x500.jpg",
+                "text": "Hot sound from , extracted from the brand new Pallet Tunes Compilation Volume III released in vinyl\/digital here : \nClick \"Vinyl\/Digital\" below to pre-order yours and to be one of the only 200 lucky guys to get it ! Plus, each pre-order will give you access to a private download link for the whole compilation, when the whole project will be successfully funded. \nThanks for your support :heavy_heart_exclamation_mark_ornament:",
+                "fallback": "SoundCloud Audio: Link: Soulchef - Franki Valli by Pallet Tunes",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F281990649&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/pallettunes\/soulchef-franki-valli-1",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1479908846.000007"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "<https:\/\/www.youtube.com\/watch?v=tHDfsgQ8FLQ&amp;list=PLrUnQJ9SnItXqFRSmlAQF0uHw5MHW16AL>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Nujabes - Luv(sic) part 1 feat Shing02 . CD1 Track 01",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=tHDfsgQ8FLQ",
+                "author_name": "DIVAZ",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UClFlC1aKHyHNT5fxfMIXbOA",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/tHDfsgQ8FLQ\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Nujabes - Luv(sic) part 1 feat Shing02 . CD1 Track 01",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/tHDfsgQ8FLQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=tHDfsgQ8FLQ",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1479929381.000009"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/kanyewest\/nomorepartiesinla>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "NO MORE PARTIES IN L.A. FEAT. KENDRICK LAMAR by Kanye West",
+                "title_link": "https:\/\/soundcloud.com\/kanyewest\/nomorepartiesinla",
+                "author_name": "Kanye West",
+                "author_link": "https:\/\/soundcloud.com\/kanyewest",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000143597723-28pt9g-t500x500.jpg",
+                "fallback": "SoundCloud Audio: Link: NO MORE PARTIES IN L.A. FEAT. KENDRICK LAMAR by Kanye West",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F242539038&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/kanyewest\/nomorepartiesinla",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1479934077.000011"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "#prayforkanye",
+        "ts": "1479934081.000013"
+    }
+]

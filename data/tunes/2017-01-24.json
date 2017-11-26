@@ -1,0 +1,82 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/dealerdemusique\/sets\/un-dimanche-au-calme-201>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "Un Dimanche au Calme #201 by Dealer de Musique",
+                "title_link": "https:\/\/soundcloud.com\/dealerdemusique\/sets\/un-dimanche-au-calme-201",
+                "author_name": "Dealer de Musique",
+                "author_link": "https:\/\/soundcloud.com\/dealerdemusique",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000204028022-b6n33g-t500x500.jpg",
+                "text": "\n\nOur Playlist is available on Spotify: ",
+                "fallback": "SoundCloud Audio: Link: Un Dimanche au Calme #201 by Dealer de Musique",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F293655022&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/dealerdemusique\/sets\/un-dimanche-au-calme-201",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1485279540.000008"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/dealerdemusique\/ddm-beatape-16-by-brock-berrigan>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "BeaTape #16 by Brock Berrigan by Dealer de Musique",
+                "title_link": "https:\/\/soundcloud.com\/dealerdemusique\/ddm-beatape-16-by-brock-berrigan",
+                "author_name": "Dealer de Musique",
+                "author_link": "https:\/\/soundcloud.com\/dealerdemusique",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000204250779-wsj47f-t500x500.jpg",
+                "text": "Find Dealer de Musique here:\n• \n• \n• ...\n• \n\nOur BeaTapes: \n100% Hip-Hop playlists: \n\n\nFollow Brock Berrigan:\n\n\n\n\n\n\n\n\n\nTracklist\n1- Make Yourself at Home \n2- Way of Life ( :27)\n3- Three AM (2:55)\n4- Diamond in the Rough (5:21)\n5- On my Mind ( 8:00)\n6- The Celebration Song (10:02)\n7- The Preacher (12:50)\n8- Four Walls and an Amplifier ( 14:42)\n9- Spooky Black - Welcome to the hell zone (The Kount x Brock Berrigan re-edit) -(16:53)\n10- The Way it Goes ( 20:00)\n11- Funk it (21:54)\n12- Rocket (24:27)\n13- September 22nd (26:24)",
+                "fallback": "SoundCloud Audio: Link: BeaTape #16 by Brock Berrigan by Dealer de Musique",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F304091890&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/dealerdemusique\/ddm-beatape-16-by-brock-berrigan",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1485291652.000010"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "<https:\/\/www.youtube.com\/watch?v=CQ6dbUmU__o>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Roy Hargrove Quintet - Strasbourg St Denis (09)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=CQ6dbUmU__o",
+                "author_name": "Piston Captation",
+                "author_link": "https:\/\/www.youtube.com\/user\/pistoncaptations",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/CQ6dbUmU__o\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Roy Hargrove Quintet - Strasbourg St Denis (09)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/CQ6dbUmU__o?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=CQ6dbUmU__o",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1485320142.000012"
+    }
+]

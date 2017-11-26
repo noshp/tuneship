@@ -1,0 +1,61 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "new fave guy on soundclloud: <https:\/\/soundcloud.com\/dealerdemusique\/tracks>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "Dealer de Musique",
+                "title_link": "https:\/\/soundcloud.com\/dealerdemusique\/tracks",
+                "author_name": "Dealer de Musique",
+                "author_link": "https:\/\/soundcloud.com\/dealerdemusique",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/avatars-000153494423-963qsn-t500x500.jpg",
+                "text": "<http:\/\/www.dealerdemusique.com|www.dealerdemusique.com>\n\nSubmit your track: <http:\/\/dealerdemusique.fr\/son>\n\nRecord Label: @ddmrecordings\nMixtapes: <https:\/\/soundcloud.com\/dealerdemix>\n\n<mailto:contact@dealerdemusique.fr|contact@dealerdemusique.fr>",
+                "fallback": "SoundCloud Audio: Link: Dealer de Musique",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Fusers%2F10552440&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/dealerdemusique\/tracks",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1472842377.000002",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U1X4W9U3V"
+                ],
+                "count": 1
+            },
+            {
+                "name": "statue_of_liberty",
+                "users": [
+                    "U1XRS5MCM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U1X4W9U3V",
+        "inviter": "U18VAQPB9",
+        "text": "<@U1X4W9U3V> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472842402.000004"
+    },
+    {
+        "user": "U1XRS5MCM",
+        "inviter": "U18VAQPB9",
+        "text": "<@U1XRS5MCM> has joined the channel",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1472842402.000005"
+    }
+]

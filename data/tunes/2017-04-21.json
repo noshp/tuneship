@@ -1,0 +1,76 @@
+[
+    {
+        "type": "message",
+        "user": "U1908M6PL",
+        "text": "<https:\/\/www.youtube.com\/watch?v=nomNAAMDReE>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "SYNTHWAVE - Dark Gaming Mix (80 minutes - 2016)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=nomNAAMDReE",
+                "author_name": "Gelbar",
+                "author_link": "https:\/\/www.youtube.com\/user\/Gelbarolol",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/nomNAAMDReE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: SYNTHWAVE - Dark Gaming Mix (80 minutes - 2016)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/nomNAAMDReE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=nomNAAMDReE",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1492800418.155063",
+        "reactions": [
+            {
+                "name": "fast_parrot",
+                "users": [
+                    "U18VAQPB9",
+                    "U1908M6PL",
+                    "U1XRS5MCM"
+                ],
+                "count": 3
+            },
+            {
+                "name": "fiesta_parrot",
+                "users": [
+                    "U18VAQPB9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "pump_girl",
+                "users": [
+                    "U18VAQPB9"
+                ],
+                "count": 1
+            },
+            {
+                "name": "drake",
+                "users": [
+                    "U18VAQPB9"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U1908M6PL",
+        "text": "^^^ DO NOT watch the video it will give you a migraine",
+        "ts": "1492800432.159324",
+        "reactions": [
+            {
+                "name": "fast_parrot",
+                "users": [
+                    "U18VAQPB9",
+                    "U1908M6PL"
+                ],
+                "count": 2
+            }
+        ]
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/www.youtube.com\/watch?v=7ouYIW8LRns>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Best of Trip-Hop &amp; Downtempo &amp; Lo-Fi &amp; Nujazz",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=7ouYIW8LRns",
+                "author_name": "S!X - Music",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCNZYpcqym8gHcNg2GWcC6nQ",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/7ouYIW8LRns\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Best of Trip-Hop & Downtempo & Lo-Fi & Nujazz",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/7ouYIW8LRns?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=7ouYIW8LRns",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1508181199.000230"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/www.youtube.com\/watch?v=4he2h5o3WQs>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Studio Ghibli [Tributes Mix]",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=4he2h5o3WQs",
+                "author_name": "The Jazz Hop Café",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCi8wqezBudeAiTdKOX571ug",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/4he2h5o3WQs\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Studio Ghibli [Tributes Mix]",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/4he2h5o3WQs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=4he2h5o3WQs",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1508181208.000024",
+        "reactions": [
+            {
+                "name": "gunter",
+                "users": [
+                    "U1908M6PL",
+                    "U1XRS5MCM"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/www.youtube.com\/playlist?list=PLCeEINgFcJLP2-AuapsgYwhGb_7p_OlVQ>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "title": "(Netflix) Terrace House: Boys And Girls In The City - YouTube",
+                "title_link": "https:\/\/www.youtube.com\/playlist?list=PLCeEINgFcJLP2-AuapsgYwhGb_7p_OlVQ",
+                "text": "The song selections for the Japanese and international version of the show seem to be completely different (probably due to licensing issues). This playlist ...",
+                "fallback": "YouTube: (Netflix) Terrace House: Boys And Girls In The City - YouTube",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/wyK7YuwUWsU\/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBtGlA9YfYTtKdlYU_G6Sq-R140tg",
+                "from_url": "https:\/\/www.youtube.com\/playlist?list=PLCeEINgFcJLP2-AuapsgYwhGb_7p_OlVQ",
+                "thumb_width": 168,
+                "thumb_height": 94,
+                "service_icon": "https:\/\/s.ytimg.com\/yts\/img\/favicon-vfl8qSV2F.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1508181795.000096"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "requested by <@U1XRS5MCM>",
+        "ts": "1508181804.000309"
+    },
+    {
+        "text": "<http:\/\/gph.is\/2f08sRv>",
+        "attachments": [
+            {
+                "service_name": "Giphy",
+                "service_url": "http:\/\/giphy.com\/",
+                "image_url": "https:\/\/media3.giphy.com\/media\/3ov9kbnFwciNXERuEw\/giphy.gif",
+                "image_width": 500,
+                "image_height": 400,
+                "image_bytes": 2043394,
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/terrace-house-nande-ryuta-3ov9kbnFwciNXERuEw",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/giphy.png",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1508181804.000380"
+    },
+    {
+        "type": "message",
+        "user": "U1XRS5MCM",
+        "text": "nande",
+        "ts": "1508181825.000518"
+    },
+    {
+        "text": "<http:\/\/gph.is\/2mrBbhd>",
+        "attachments": [
+            {
+                "service_name": "Giphy",
+                "service_url": "http:\/\/giphy.com\/",
+                "image_url": "https:\/\/media1.giphy.com\/media\/26FmRObj0dxln3EwE\/giphy.gif",
+                "image_width": 200,
+                "image_height": 113,
+                "image_bytes": 521051,
+                "fallback": "giphy: https:\/\/giphy.com\/gifs\/ryota-eh-terracehousu-terrace-house-ryota-nande-26FmRObj0dxln3EwE",
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/giphy.png",
+                "id": 1
+            }
+        ],
+        "type": "message",
+        "subtype": "slackbot_response",
+        "user": "USLACKBOT",
+        "ts": "1508181825.000576"
+    }
+]

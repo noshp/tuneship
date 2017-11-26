@@ -1,0 +1,68 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/brockberrigan\/diamond-in-the-rough-new-album-december-9th>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "Diamond in the Rough by Brock Berrigan",
+                "title_link": "https:\/\/soundcloud.com\/brockberrigan\/diamond-in-the-rough-new-album-december-9th",
+                "author_name": "Brock Berrigan",
+                "author_link": "https:\/\/soundcloud.com\/brockberrigan",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000175239044-veuk2b-t500x500.jpg",
+                "text": "New album out now \n\n\n\n\n",
+                "fallback": "SoundCloud Audio: Link: Diamond in the Rough by Brock Berrigan",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F234708588&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/brockberrigan\/diamond-in-the-rough-new-album-december-9th",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1485449898.000014"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "headbobbing",
+        "ts": "1485449906.000016"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "<https:\/\/soundcloud.com\/brainfeeder\/show-you-the-way-feat-michael-mcdonald-kenny-loggins>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "Thundercat - 'Show You The Way (feat. Michael McDonald &amp; Kenny Loggins)' by BRAINFEEDER",
+                "title_link": "https:\/\/soundcloud.com\/brainfeeder\/show-you-the-way-feat-michael-mcdonald-kenny-loggins",
+                "author_name": "BRAINFEEDER",
+                "author_link": "https:\/\/soundcloud.com\/brainfeeder",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000204601741-5wxis0-t500x500.jpg",
+                "text": "Pre-order 'Drunk' -\nBrainfeeder \/ Stream \/ Download: \n\nTaken from 'Drunk' released 24th February 2017 via Brainfeeder.\n\n“DRUNK” WORLD TOUR - Tickets: \n\n12 Feb\tThe Independent - San Francisco, CA - SOLD OUT\n13 Feb\tThe Independent - San Francisco, CA - SOLD OUT\n14 Feb\tThe Independent - San Francisco, CA - SOLD OUT\n16 Feb\tWonder Ballroom - Portland, OR\n17 Feb\tRickshaw Theatre - Vancouver, BC\n18 Feb\tWild Buffalo - Bellingham, WA\n19 Feb\tBarboza - Seattle, WA - SOLD OUT\n21 Feb\tUrban Lounge - Salt Lake City, UT\n22 Feb\tBluebird Theater - Denver, CO\n24 Feb\tFine Line Music Cafe - Minneapolis, MN\n25 Feb\tConcord Music Hall - Chicago, IL\n26 Feb\tMagic Stick - Detroit, MI\n28 Feb\tDanforth Music Hall - Toronto, ON\n01 Mar\tSAT - Montreal, QC\n02 Mar\tParadise - Boston, MA - SOLD OUT\n03 Mar\tIrving Plaza - New York, NY\n04 Mar\tUnion Transfer - Philadelphia, PA\n05 Mar\tU Street Music Hall - Washington, DC - SOLD OUT\n07 Mar\tTerminal West - Atlanta, GA\n08 Mar\tNashville, TN - Exit In\n10 Mar\tBuku Music + Art Project - New Orleans, LA\n11 Mar\tWarehouse Live - Houston, TX\n12 Mar\tTrees - Dallas, TX\n16 Mar\tBarby Club - Tel Aviv, Israel - SOLD OUT\n17 Mar\tBabylon - Istanbul, Turkey\n18 Mar\tNiebo Club - Warsaw, Poland\n19 Mar\tYaam - Berlin, Germany\n20 Mar\tMojo - Hamburg, Germany\n21 Mar\tCBE - Cologne, Germany\n22 Mar\tThekla - Bristol, UK\n23 Mar\tGorilla - Manchester, UK\n24 Mar\tInvisible Wind Factory - Liverpool, UK\n27 Mar\tVicar Street - Dublin, Rep. Of Ireland\n28 Mar\tHeaven - London, UK\n29 Mar\tLa Cartonnerie - Reims, France\n30 Mar\tTrabendo - Paris, France\n01 Apr\tFri-Son - Fribourg, Switzerland\n02 Apr\tTheater Moods - Zurich, Switzerland\n03 Apr\tAtelier Babylon - Bratislava, Slovakia\n04 Apr\tPorgy & Bess - Vienna, Austria\n05 Apr\tLucerna Music Bar - Prague, Czech Republic\n07 Apr\tMotel Mozaique Festival - Rotterdam, Netherlands\n08 Apr\tTransition Festival - Utrecht, Netherlands\n09 Apr\tBRDCST Festival - Brussels, Belgium\n15 Apr\tCoachella Valley Music & Arts Festival - Indio, CA \n22 Apr\tCoachella Valley Music & Arts Festival - Indio, CA\n27 Apr\tLiquid Room - Tokyo, Japan \n28 Apr\tBlue Note - Nagoya, Japan\n29 Apr\tMetro - Kyoto, Japan\n30 Apr\tConpass - Osaka, Japan\n\nFollow Thundercat - \nTwitter: \nSpotify: \n\n",
+                "fallback": "SoundCloud Audio: Link: Thundercat - 'Show You The Way (feat. Michael McDonald & Kenny Loggins)' by BRAINFEEDER",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F304438869&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/brainfeeder\/show-you-the-way-feat-michael-mcdonald-kenny-loggins",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1485455253.000017"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "i i have no idea what year it is anymore",
+        "ts": "1485455263.000019"
+    }
+]

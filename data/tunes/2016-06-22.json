@@ -1,0 +1,51 @@
+[
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "serious quesntio",
+        "ts": "1466621235.000002"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "nujabes",
+        "ts": "1466621237.000003"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "or",
+        "ts": "1466621239.000004"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "dj krush",
+        "ts": "1466621242.000005"
+    },
+    {
+        "type": "message",
+        "user": "U1908M6PL",
+        "text": "nujabes 4 werk",
+        "ts": "1466621844.000006"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "\/giphy werk",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/paul-rudd-billy-dee-williams-candace-cameron-bure-6yd1SIHLzBrfa>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/6yd1SIHLzBrfa\/giphy.gif",
+                "image_width": 500,
+                "image_height": 281,
+                "image_bytes": 1079710,
+                "is_animated": true,
+                "title": "werk",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/paul-rudd-billy-dee-williams-candace-cameron-bure-6yd1SIHLzBrfa"
+            }
+        ],
+        "ts": "1466622684.000007"
+    }
+]

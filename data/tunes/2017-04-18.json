@@ -1,0 +1,23 @@
+[
+    {
+        "type": "message",
+        "user": "U1XRS5MCM",
+        "text": "<https:\/\/soundcloud.com\/sonder\/sets\/into-ep-1>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "title": "Into EP",
+                "title_link": "https:\/\/soundcloud.com\/sonder\/sets\/into-ep-1",
+                "text": "mastered by Rob Bisel",
+                "fallback": "SoundCloud: Into EP",
+                "thumb_url": "https:\/\/i1.sndcdn.com\/artworks-000205029555-q9cad7-t500x500.jpg",
+                "from_url": "https:\/\/soundcloud.com\/sonder\/sets\/into-ep-1",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1492538528.571395"
+    }
+]

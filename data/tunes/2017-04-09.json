@@ -1,0 +1,68 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/dealerdemusique\/sets\/un-dimanche-au-calme-211>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "Un Dimanche au Calme #211 by Dealer de Musique",
+                "title_link": "https:\/\/soundcloud.com\/dealerdemusique\/sets\/un-dimanche-au-calme-211",
+                "author_name": "Dealer de Musique",
+                "author_link": "https:\/\/soundcloud.com\/dealerdemusique",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000216990070-1bju65-t500x500.jpg",
+                "text": "\n\nOur Playlist is available on Spotify: ",
+                "fallback": "SoundCloud Audio: Link: Un Dimanche au Calme #211 by Dealer de Musique",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F314117853&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/dealerdemusique\/sets\/un-dimanche-au-calme-211",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1491782541.735894"
+    },
+    {
+        "type": "message",
+        "user": "U1X4W9U3V",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Hb1tfATkoRM&amp;list=RDHb1tfATkoRM>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "MISO - Higher",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Hb1tfATkoRM&amp;list=RDHb1tfATkoRM",
+                "author_name": "Seoul Vibes",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UC0osHKA8k2dRzSvm0tzkafg",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Hb1tfATkoRM\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: MISO - Higher",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/videoseries?list=RDHb1tfATkoRM\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Hb1tfATkoRM&amp;list=RDHb1tfATkoRM",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "thread_ts": "1491796794.059743",
+        "reply_count": 2,
+        "replies": [
+            {
+                "user": "U18VAQPB9",
+                "ts": "1491840776.464939"
+            },
+            {
+                "user": "U1X4W9U3V",
+                "ts": "1491843818.569085"
+            }
+        ],
+        "unread_count": 2,
+        "ts": "1491796794.059743"
+    }
+]

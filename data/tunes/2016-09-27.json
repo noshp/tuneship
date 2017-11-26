@@ -1,0 +1,106 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/youtu.be\/3Ys9owWbBH8?list=PLmzZcj2GiRElMlx9Z5lLyu_qRkBrXPPR9>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "The Roots - Here I come [HD]",
+                "title_link": "https:\/\/youtu.be\/3Ys9owWbBH8?",
+                "author_name": "CrashIIX",
+                "author_link": "https:\/\/www.youtube.com\/user\/CrashIIX",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/3Ys9owWbBH8\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: The Roots - Here I come [HD]",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/3Ys9owWbBH8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/youtu.be\/3Ys9owWbBH8?",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1474999689.000002"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/soundisstyle\/flume-holdin-on-kaytranada>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "title": "Flume - Holdin On (Kaytranada Edit)",
+                "title_link": "https:\/\/soundcloud.com\/soundisstyle\/flume-holdin-on-kaytranada",
+                "text": "SOUNDISSTYLE - You are what you listen to. » Facebook: <http:\/\/bit.ly\/soundisstylefb> » Twitter: <http:\/\/bit.ly\/soundisstyletwitter> ► Free Download <http:\/\/soundisstyle.com\/2013\/06\/flume-holdin-on-k>",
+                "fallback": "SoundCloud: Flume - Holdin On (Kaytranada Edit)",
+                "thumb_url": "https:\/\/i1.sndcdn.com\/artworks-000049815283-tn70sd-t500x500.jpg",
+                "from_url": "https:\/\/soundcloud.com\/soundisstyle\/flume-holdin-on-kaytranada",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1475003708.000004"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/kaytranada\/modjo-lady-kaytranada-remix>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "Modjo - Lady (Kaytranada Remix) by KAYTRANADA",
+                "title_link": "https:\/\/soundcloud.com\/kaytranada\/modjo-lady-kaytranada-remix",
+                "author_name": "KAYTRANADA",
+                "author_link": "https:\/\/soundcloud.com\/kaytranada",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000034801590-7ue1xt-t500x500.jpg",
+                "text": "Not so extended mix...",
+                "fallback": "SoundCloud Audio: Link: Modjo - Lady (Kaytranada Remix) by KAYTRANADA",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F68613791&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/kaytranada\/modjo-lady-kaytranada-remix",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1475004739.000006"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "Oh shiii",
+        "ts": "1475004817.000008"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "i be headboppin all day",
+        "ts": "1475005040.000009"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "my neck sore",
+        "ts": "1475005049.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1XRS5MCM",
+        "text": "nice",
+        "ts": "1475007377.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1908M6PL",
+        "text": "Holy shit this is a jam",
+        "ts": "1475014314.000012"
+    }
+]

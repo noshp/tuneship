@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "<https:\/\/www.youtube.com\/watch?v=Aud86OSqQ1w>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Childish Gambino: Redbone",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=Aud86OSqQ1w",
+                "author_name": "The Tonight Show Starring Jimmy Fallon",
+                "author_link": "https:\/\/www.youtube.com\/user\/latenight",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/Aud86OSqQ1w\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Childish Gambino: Redbone",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/Aud86OSqQ1w?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=Aud86OSqQ1w",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1481860384.000002"
+    }
+]

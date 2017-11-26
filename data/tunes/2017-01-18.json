@@ -1,0 +1,34 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/www.youtube.com\/watch?v=9j5vmAH9VeE>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Iggy Azalea - Beg For It (Lyric Video) ft. MØ",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=9j5vmAH9VeE",
+                "author_name": "iggyazaleamusicVEVO",
+                "author_link": "https:\/\/www.youtube.com\/user\/iggyazaleamusicVEVO",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/9j5vmAH9VeE\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Iggy Azalea - Beg For It (Lyric Video) ft. MØ",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/9j5vmAH9VeE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=9j5vmAH9VeE",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1484761675.000002"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "guilty pleasure song",
+        "ts": "1484761680.000004"
+    }
+]

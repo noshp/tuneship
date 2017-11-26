@@ -1,0 +1,296 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/dealerdemusique\/sets\/100-hip-hop-27>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "100% Hip-Hop #27 by Dealer de Musique",
+                "title_link": "https:\/\/soundcloud.com\/dealerdemusique\/sets\/100-hip-hop-27",
+                "author_name": "Dealer de Musique",
+                "author_link": "https:\/\/soundcloud.com\/dealerdemusique",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000181400307-byy505-t500x500.jpg",
+                "fallback": "SoundCloud Audio: Link: 100% Hip-Hop #27 by Dealer de Musique",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F257530122&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/dealerdemusique\/sets\/100-hip-hop-27",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1473356929.000002"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "new musique",
+        "ts": "1473356941.000004"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "<https:\/\/www.youtube.com\/watch?v=kjDM0Fz5ccU>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Aaliyah - Are You That Somebody (Official HD Video)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=kjDM0Fz5ccU",
+                "author_name": "Shixsh",
+                "author_link": "https:\/\/www.youtube.com\/user\/Shixsh",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/kjDM0Fz5ccU\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Aaliyah - Are You That Somebody (Official HD Video)",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/kjDM0Fz5ccU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=kjDM0Fz5ccU",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1473357033.000005"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "old music?",
+        "ts": "1473357036.000007"
+    },
+    {
+        "type": "message",
+        "user": "U1X4W9U3V",
+        "text": "didn’t she pass away recently?",
+        "ts": "1473357690.000008"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "long time ago",
+        "ts": "1473357702.000009"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "almost 15 years ago",
+        "ts": "1473357718.000010"
+    },
+    {
+        "type": "message",
+        "user": "U1X4W9U3V",
+        "text": "wait wut",
+        "ts": "1473357719.000011"
+    },
+    {
+        "type": "message",
+        "user": "U1X4W9U3V",
+        "text": "who am i think of then",
+        "ts": "1473357723.000012"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "prince",
+        "ts": "1473357730.000013"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "#closeenough",
+        "ts": "1473357735.000014"
+    },
+    {
+        "type": "message",
+        "user": "U1X4W9U3V",
+        "text": "nooo female pop singer",
+        "ts": "1473357737.000015"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "yeah. thats right price",
+        "ts": "1473357744.000016"
+    },
+    {
+        "type": "message",
+        "user": "U1X4W9U3V",
+        "text": "lol",
+        "ts": "1473357785.000017"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "prince*",
+        "ts": "1473357793.000018"
+    },
+    {
+        "type": "message",
+        "user": "U1908M6PL",
+        "text": "ololllo",
+        "ts": "1473357835.000019"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "\/giphy prince",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/betawards-bet-awards-2010-3o72F0opzeoSa7MzKw>",
+                "image_url": "http:\/\/media.giphy.com\/media\/3o72F0opzeoSa7MzKw\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 743571,
+                "is_animated": true,
+                "title": "prince",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/betawards-bet-awards-2010-3o72F0opzeoSa7MzKw"
+            }
+        ],
+        "ts": "1473357923.000020"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "rip",
+        "ts": "1473357927.000021"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "\/giphy purple rain",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/betawards-bet-awards-2016-l41YdXPETZ6BbK9WM>",
+                "image_url": "http:\/\/media1.giphy.com\/media\/l41YdXPETZ6BbK9WM\/giphy.gif",
+                "image_width": 480,
+                "image_height": 266,
+                "image_bytes": 1493010,
+                "is_animated": true,
+                "title": "purple rain",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/betawards-bet-awards-2016-l41YdXPETZ6BbK9WM"
+            }
+        ],
+        "ts": "1473357938.000022"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "\/giphy doves crying",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/prince-doves-cry-Sf5Ou9vWejnKU>",
+                "image_url": "http:\/\/media0.giphy.com\/media\/Sf5Ou9vWejnKU\/giphy.gif",
+                "image_width": 250,
+                "image_height": 190,
+                "image_bytes": 703690,
+                "is_animated": true,
+                "title": "doves crying",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/prince-doves-cry-Sf5Ou9vWejnKU"
+            }
+        ],
+        "ts": "1473357951.000023"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "\/giphy prince dave chappelle",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/comedycentral-pancakes-chappelles-show-chappelle-l2JHZKNio4EjY6iqY>",
+                "image_url": "http:\/\/media3.giphy.com\/media\/l2JHZKNio4EjY6iqY\/giphy.gif",
+                "image_width": 500,
+                "image_height": 375,
+                "image_bytes": 989151,
+                "is_animated": true,
+                "title": "prince dave chappelle",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/comedycentral-pancakes-chappelles-show-chappelle-l2JHZKNio4EjY6iqY"
+            }
+        ],
+        "ts": "1473357955.000024"
+    },
+    {
+        "type": "message",
+        "user": "U1908M6PL",
+        "text": "\/giphy game blouses",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/prince-Rpd74iEMuclWw>",
+                "image_url": "http:\/\/media2.giphy.com\/media\/Rpd74iEMuclWw\/giphy.gif",
+                "image_width": 245,
+                "image_height": 245,
+                "image_bytes": 767265,
+                "is_animated": true,
+                "title": "game blouses",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/prince-Rpd74iEMuclWw"
+            }
+        ],
+        "ts": "1473358068.000025"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "if all you need to get on west coast Vancouver time",
+        "ts": "1473358476.000026"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "<https:\/\/soundcloud.com\/hey-ocean\/sets\/its-easier-to-be-somebody-else>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "It's Easier to be Somebody Else by Hey Ocean!",
+                "title_link": "https:\/\/soundcloud.com\/hey-ocean\/sets\/its-easier-to-be-somebody-else",
+                "author_name": "Hey Ocean!",
+                "author_link": "https:\/\/soundcloud.com\/hey-ocean",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000022854805-j0jlao-t500x500.jpg",
+                "fallback": "SoundCloud Audio: Link: It's Easier to be Somebody Else by Hey Ocean!",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F1177657&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/hey-ocean\/sets\/its-easier-to-be-somebody-else",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1473358478.000027"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "nah i stick to BeastCoast",
+        "ts": "1473358507.000029"
+    },
+    {
+        "type": "message",
+        "user": "U1XRS5MCM",
+        "text": "\/giphy little red corvette",
+        "attachments": [
+            {
+                "fallback": "giphy: <http:\/\/giphy.com\/gifs\/prince-purple-rain-rip-xT1XGBs5IvUTqzX0li>",
+                "image_url": "http:\/\/media.giphy.com\/media\/xT1XGBs5IvUTqzX0li\/giphy-tumblr.gif",
+                "image_width": 250,
+                "image_height": 140,
+                "image_bytes": 1322140,
+                "is_animated": true,
+                "title": "little red corvette",
+                "id": 1,
+                "title_link": "http:\/\/giphy.com\/gifs\/prince-purple-rain-rip-xT1XGBs5IvUTqzX0li"
+            }
+        ],
+        "ts": "1473366440.000030"
+    }
+]

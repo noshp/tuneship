@@ -1,0 +1,79 @@
+[
+    {
+        "type": "message",
+        "user": "U1XRS5MCM",
+        "text": "it's a pretty lit mini album",
+        "ts": "1491931107.020781"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "she gonna be my new fave artist for a week",
+        "ts": "1491931389.124528"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/complexion\/the-future-beats-show-146>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "The Future Beats Show 146 by Complexion",
+                "title_link": "https:\/\/soundcloud.com\/complexion\/the-future-beats-show-146",
+                "author_name": "Complexion",
+                "author_link": "https:\/\/soundcloud.com\/complexion",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000217137780-fjh3jz-t500x500.jpg",
+                "text": "You can listen back to previous episodes of #TFBS at \n\n➤  |  | \n\n\nOnra - TFBS Intro\nCom Truise - Memory\nSiyh - Respira (W\/ Rasiir)\nDestinuna - Moon Platoon - Please Believe It\nSiyh - Persian \nU Bit ~ W\/ Jasmine\nAmbientsketchbook - To Find Heaven\nIntalekt - Closer Than Close \nC Y G N. - Warned You\nAndrebhutta - Have The Beat For Free Cardona\nHurricane_ - Textures\nCmkay - Left Alone\n3Lo - Necessities\nNooon. - Room.\nPaulie - 4\/5\/1963\nSlow Valley - Same Thing (Watch My Back)\nOk2222 - Lazy Days Feat. Oofoe\nChromonicci. - Bliss.\nTidecruz - People Don't Make Sense\nAnh ~ Pressur\n[ Bsd.U ] - B\nSundrenched - Meet You Under The Weeping Willow At 4\nPreconceived Notions - Efímero & B Dom - Not You\nLussx - Depths - Lussx\nLate June - Sleep Well\nOk2222 - Hold On.\nSiyh - I Need More\nElectra :zap: - Let The Dead Sleep\nLaxcity - Berceuse\nSleep2. - Sleep2 X Jrco Gco ~ Boricua.\nOzone - Reflect (W\/ Steezy Prime)\nRhyse - Audio44100\nC Y G N - Onmymind\nC Y G N. - C O L D H E A R T W O M E N\n$Vmm3R - Desire\nSángo - Know About It \nBrtrnd - Tension\nBrtrnd - Absent\nOsza - Beginnings",
+                "fallback": "SoundCloud Audio: Link: The Future Beats Show 146 by Complexion",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F316997346&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/complexion\/the-future-beats-show-146",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1491941681.942752"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/tiara-thomas\/touch-me-tease-me>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "Touch Me Tease Me by Tiara Thomas",
+                "title_link": "https:\/\/soundcloud.com\/tiara-thomas\/touch-me-tease-me",
+                "author_name": "Tiara Thomas",
+                "author_link": "https:\/\/soundcloud.com\/tiara-thomas",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000215077872-t5pqkb-t500x500.jpg",
+                "fallback": "SoundCloud Audio: Link: Touch Me Tease Me by Tiara Thomas",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F314884980&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/tiara-thomas\/touch-me-tease-me",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1491941782.977650"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "lol this busniness of slackbots, i think im going to make a slackbot to store all the links in this channel",
+        "ts": "1491945093.104478"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "so yall can shuffle and play songs from this channel",
+        "ts": "1491945110.109771"
+    }
+]

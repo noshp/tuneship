@@ -1,0 +1,29 @@
+[
+    {
+        "type": "message",
+        "user": "U1X4W9U3V",
+        "text": "Man meeting u guys was such a boon for finding good music ",
+        "ts": "1508005035.000128"
+    },
+    {
+        "type": "message",
+        "user": "U1X4W9U3V",
+        "text": "I know this because I haven’t foujd anything good\/new for a while",
+        "ts": "1508005059.000071"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "I saw tokimosta last night. It was glorious ",
+        "ts": "1508005112.000010",
+        "reactions": [
+            {
+                "name": "gunter",
+                "users": [
+                    "U1XRS5MCM"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

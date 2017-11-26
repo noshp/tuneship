@@ -1,0 +1,28 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/www.youtube.com\/watch?v=C6IcJPsNjn0>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Dawn Penn- NO NO NO (Original)",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=C6IcJPsNjn0",
+                "author_name": "zeuceone",
+                "author_link": "https:\/\/www.youtube.com\/user\/zeuceone",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/C6IcJPsNjn0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Dawn Penn- NO NO NO (Original)",
+                "video_html": "<iframe width=\"400\" height=\"300\" src=\"https:\/\/www.youtube.com\/embed\/C6IcJPsNjn0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 300,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=C6IcJPsNjn0",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1481131870.000002"
+    }
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "incoming headboppin music",
+        "ts": "1475849898.000002"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/griz\/stop-trippin-with-ida-hawk>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "Stop Trippin' (with iDA HAWK) by GRiZ",
+                "title_link": "https:\/\/soundcloud.com\/griz\/stop-trippin-with-ida-hawk",
+                "author_name": "GRiZ",
+                "author_link": "https:\/\/soundcloud.com\/griz",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000104753724-bxtahx-t500x500.jpg",
+                "text": "Stream \/ Download - Say It Loud - out right funkin' now !! .\n\nDOWNLOAD: \n\nGRiZ TOUR DATES:  \n\nSay It Loud is an album that took me all around the United States\nMy girl Jessie Arlen aka iDa Hawk and I had a blast writing and recording this jam at studio G in brooklyn last spring. Stop Trippin' is especially for all the girls out there doin their thing! Enjoy!!!\n\nConnect: \nFacebook:  \nTwitter: \n Instagram:  \nSnapchat:  \nWebsite: \n\n#ShowLoveSpreadLove",
+                "fallback": "SoundCloud Audio: Link: Stop Trippin' (with iDA HAWK) by GRiZ",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F188145805&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/griz\/stop-trippin-with-ida-hawk",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1475849899.000003"
+    },
+    {
+        "type": "message",
+        "user": "U1908M6PL",
+        "text": "griz is solid. <@U18VAQPB9> you like gramatik?",
+        "ts": "1475849992.000005"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "Daa i like",
+        "ts": "1475850383.000006"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/soundcloud.com\/st-mdnght\/yung-calgary>",
+        "attachments": [
+            {
+                "service_name": "SoundCloud",
+                "service_url": "http:\/\/soundcloud.com",
+                "title": "Yung Calgary by St.Mdnght",
+                "title_link": "https:\/\/soundcloud.com\/st-mdnght\/yung-calgary",
+                "author_name": "St.Mdnght",
+                "author_link": "https:\/\/soundcloud.com\/st-mdnght",
+                "thumb_url": "http:\/\/i1.sndcdn.com\/artworks-000187032646-ur0jpw-t500x500.jpg",
+                "text": "Calling all y'all to move it ~o~",
+                "fallback": "SoundCloud Audio: Link: Yung Calgary by St.Mdnght",
+                "audio_html": "<iframe width=\"100%\" height=\"150\" scrolling=\"no\" frameborder=\"no\" src=\"https:\/\/w.soundcloud.com\/player\/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F286484717&show_artwork=true&maxheight=150\"><\/iframe>",
+                "audio_html_width": 100,
+                "audio_html_height": 150,
+                "from_url": "https:\/\/soundcloud.com\/st-mdnght\/yung-calgary",
+                "thumb_width": 500,
+                "thumb_height": 500,
+                "service_icon": "https:\/\/soundcloud.com\/favicon.ico",
+                "id": 1
+            }
+        ],
+        "ts": "1475852292.000007"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "friends mix",
+        "ts": "1475852295.000009"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "<https:\/\/www.youtube.com\/watch?v=BNoKzZBJja0&amp;list=PLIaeHP0iVpK1sX7RkD17Na8LP0FXokR_w&amp;index=2>",
+        "attachments": [
+            {
+                "service_name": "YouTube",
+                "service_url": "https:\/\/www.youtube.com\/",
+                "title": "Raphael Saadiq - Good Man (Audio) [MARVEL'S LUKE CAGE - 1X01 - SOUNDTRACK]",
+                "title_link": "https:\/\/www.youtube.com\/watch?v=BNoKzZBJja0&amp;index=2",
+                "author_name": "TV Series & Movie Soundtrack",
+                "author_link": "https:\/\/www.youtube.com\/channel\/UCi3OM5V-WzrLmGxnuoJukKw",
+                "thumb_url": "https:\/\/i.ytimg.com\/vi\/BNoKzZBJja0\/hqdefault.jpg",
+                "thumb_width": 480,
+                "thumb_height": 360,
+                "fallback": "YouTube Video: Raphael Saadiq - Good Man (Audio) [MARVEL'S LUKE CAGE - 1X01 - SOUNDTRACK]",
+                "video_html": "<iframe width=\"400\" height=\"225\" src=\"https:\/\/www.youtube.com\/embed\/BNoKzZBJja0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allowfullscreen><\/iframe>",
+                "video_html_width": 400,
+                "video_html_height": 225,
+                "from_url": "https:\/\/www.youtube.com\/watch?v=BNoKzZBJja0&amp;index=2",
+                "service_icon": "https:\/\/a.slack-edge.com\/2089\/img\/unfurl_icons\/youtube.png",
+                "id": 1
+            }
+        ],
+        "ts": "1475854822.000010"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "this one is better curated",
+        "ts": "1475854828.000012"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "thankz",
+        "ts": "1475858964.000013"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "did u finish it yet?",
+        "ts": "1475859025.000014"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "which?",
+        "ts": "1475859041.000015"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "cage?",
+        "ts": "1475859044.000016"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "i did",
+        "ts": "1475859045.000017"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "it was basically the wire if ppl had superpowers",
+        "ts": "1475859081.000018"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "like it was oh you were in the wire? here have a cameo",
+        "ts": "1475859097.000019"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "i know lol",
+        "ts": "1475859164.000020"
+    },
+    {
+        "type": "message",
+        "user": "U18VAQPB9",
+        "text": "it was great",
+        "ts": "1475859166.000021"
+    },
+    {
+        "type": "message",
+        "user": "U18V2LAAJ",
+        "text": "jessica jones was better tho",
+        "ts": "1475860317.000022"
+    }
+]

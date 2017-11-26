@@ -31,4 +31,3 @@ def index():
         return render_template('results.html', results=query_db, num_return=num_return)
 
     return render_template('index.html', form1=form1, form2=form2)
-      
