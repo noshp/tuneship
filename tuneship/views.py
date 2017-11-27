@@ -1,11 +1,10 @@
 from flask import render_template, request
 from . import app, db
-from tuneship.models import Data
+from tuneship.models import Data, TunesData
 from tuneship.forms import EnterDBInfo, RetrieveDBInfo
 
-@app.route('/', methods=['GET', 'POST'])
-@app.route('/index', methods=['GET', 'POST'])
-def index():
+@app.route('/enterdb', methods=['GET', 'POST'])
+def enterdb():
     form1 = EnterDBInfo(request.form)
     form2 = RetrieveDBInfo(request.form)
 
@@ -30,8 +29,9 @@ def index():
             db.session.rollback()
         return render_template('results.html', results=query_db, num_return=num_return)
 
-    return render_template('index.html', form1=form1, form2=form2)
+    return render_template('enterdb.html', form1=form1, form2=form2)
 
-@app.route('/list')
-def list():
-    return render_template('playlist.html')
+@app.route('/')
+def index():
+    tunes = TunesData.query.all()
+    return render_template('index.html', all_tunes = tunes)
