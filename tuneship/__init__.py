@@ -2,7 +2,7 @@ from os.path import join, isfile
 from flask import Flask, render_template, make_response, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from flask_restless import APIManager
-
+from flask_migrate import Migrate
 #Config
 
 app = Flask(__name__, instance_relative_config=True)
@@ -13,7 +13,7 @@ else:
     app.config.from_pyfile('flask.cfg')
 
 db = SQLAlchemy(app)
-
+migrate = Migrate(app,db)
 from tuneship import views
 from tuneship.models import *
 
