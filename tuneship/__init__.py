@@ -21,3 +21,4 @@ from tuneship.models import *
 manager = APIManager(app, flask_sqlalchemy_db=db)
 
 manager.create_api(Data, methods=['GET'])
+manager.create_api(TunesData, methods=['GET'])
