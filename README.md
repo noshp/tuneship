@@ -38,4 +38,22 @@ Then run the flask app
 flask run
 ```
 
+## Updating db and migrations
+We are using Flask-Migrate to handle all the database migrations.
+For initial db setup:
+
+```shell
+flask db init
+
+```
+To migrate follow these steps:
+
+```shell
+flask db migrate
+
+#then to apply the migrations
+flask db upgrade
+
+```
+
 
