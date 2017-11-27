@@ -15,30 +15,10 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+## Updating db and migrations
+---
 **Have a postgres instance running on port 5432**
 
-**Create the db**
-
-```shell
-python db_create.py
-```
-
-## Running application
-
-Once the postgres database is up and running and all requirements are installed.
-Export the Flask app in your terminal session.
-
-```shell
-export FLASK_APP=run.py
-```
-
-Then run the flask app
-
-```shell
-flask run
-```
-
-## Updating db and migrations
 We are using Flask-Migrate to handle all the database migrations.
 For initial db setup:
 
@@ -55,5 +35,20 @@ flask db migrate
 flask db upgrade
 
 ```
+## Running application
+
+Once the postgres database is up and running and all requirements are installed.
+Export the Flask app in your terminal session.
+
+```shell
+export FLASK_APP=run.py
+```
+
+Then run the flask app
+
+```shell
+flask run
+```
+
 
 
