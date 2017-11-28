@@ -107,3 +107,7 @@ venv.bak/
 # End of https://www.gitignore.io/api/python
 
 tunes/
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
