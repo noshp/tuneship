@@ -1,9 +1,9 @@
 from flask import render_template, request
-from . import app, db
+from . import application, db
 from tuneship.models import Data, TunesData
 from tuneship.forms import EnterDBInfo, RetrieveDBInfo
 
-@app.route('/enterdb', methods=['GET', 'POST'])
+@application.route('/enterdb', methods=['GET', 'POST'])
 def enterdb():
     form1 = EnterDBInfo(request.form)
     form2 = RetrieveDBInfo(request.form)
@@ -31,7 +31,7 @@ def enterdb():
 
     return render_template('enterdb.html', form1=form1, form2=form2)
 
-@app.route('/')
+@application.route('/')
 def index():
     tunes = TunesData.query.all()
     return render_template('index.html', all_tunes = tunes)

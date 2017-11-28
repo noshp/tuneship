@@ -1,4 +1,4 @@
-from tuneship import app
+from tuneship import application
 
 if __name__ == "__main__":
-    app.run()
+    application.run()
