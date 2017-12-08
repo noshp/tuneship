@@ -1,7 +1,9 @@
-from flask import render_template, request
+from flask import render_template, request, Response
 from . import application, db
 from tuneship.models import Data, TunesData
 from tuneship.forms import EnterDBInfo, RetrieveDBInfo,EnterTunesData
+from bs4 import BeautifulSoup
+import requests
 
 @application.route('/enterdb', methods=['GET', 'POST'])
 def enterdb():
@@ -47,6 +49,27 @@ def entertunes():
         return render_template('thanks.html', notes=tunesForm.title.data)
     
     return render_template('entertunesdb.html',tunesForm=tunesForm)
+
+@application.route('/slack', methods=['POST'])
+def inbound():
+    if request.form.get('token') == application.config['SLACK_WEBHOOK_SECRET']:
+        channel = request.form.get('channel_name')
+        username = request.form.get('user_name')
+        text = request.form.get('text')
+        inbound_message = username + " in " + channel + " posted: " + text.strip('<>')
+        print(inbound_message)
+        slack_media_url = text.strip('<>')
+        media_url_title = BeautifulSoup(requests.get(slack_media_url).text, "html.parser").title.string
+        print(media_url_title)
+        enter_tunes_db = TunesData(title=media_url_title, media_url=slack_media_url) 
+        try:
+            db.session.add(enter_tunes_db)
+            db.session.commit()
+            db.session.close()
+        except:
+            db.session.rollback()
+        
+    return Response(), 200
 
 @application.route('/')
 def index():
