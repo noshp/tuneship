@@ -1,0 +1,26 @@
+{% extends "base.html" %} {% import 'macros.html' as macros %} 
+{% block content %}
+
+<div class="col-md-4 col-md-offset-4">
+
+      <div align="center">
+        <h2>Tuneship</h2>
+      </div>
+
+<hr>
+
+<form method="post" action="/entertunes"  id="db_post" name="db_post">
+
+    {{ tunesForm.hidden_tag() }} 
+    
+    {{ macros.render_field(tunesForm.title, placeholder='Enter media title to submit to the DB', type='dbNotes', label_visible=false) }}
+    {{ macros.render_field(tunesForm.thumb_url, placeholder='Enter thumbnail link to submit to the DB', type='dbNotes', label_visible=false) }}
+    {{ macros.render_field(tunesForm.media_url, placeholder='Enter media url to submit to the DB', type='dbNotes', label_visible=false) }}
+    {{ macros.render_field(tunesForm.iframe_string, placeholder='Enter iframe string to submit to the DB', type='dbNotes', label_visible=false) }}
+    <div align="center"><button type="submit" class="btn btn-primary">Submit</button></p></div>
+
+</form>   
+
+</div>
+
+{% endblock %}  
