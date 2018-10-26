@@ -1,6 +1,6 @@
 import json, os
 from pprint import pprint
-from tuneship import app, db
+from tuneship import application, db
 from tuneship.models import TunesData
 
 class SlackChannelMessageParser:

@@ -3,17 +3,20 @@ from flask import Flask, render_template, make_response, jsonify
 from flask_sqlalchemy import SQLAlchemy
 from flask_restless import APIManager
 from flask_migrate import Migrate
+from . import Config
+import os
 #Config
 
-application = Flask(__name__, instance_relative_config=True)
+application = Flask(__name__)
 
-if isfile(join('instance', 'flask_full.cfg')):
-    application.config.from_pyfile('flask_full.cfg')
-else:
-    application.config.from_pyfile('flask.cfg')
+if os.getenv('APP_ENV') == 'DEVELOPMENT':
+    application.config.from_object(Config.DevelopmentConfig)
+elif os.getenv('APP_ENV') == 'PRODUCTION':
+    application.config.from_object(Config.ProductionConfig)
 
 db = SQLAlchemy(application)
 migrate = Migrate(application,db)
+
 from tuneship import views
 from tuneship.models import *
 

@@ -3,16 +3,28 @@ Webapp to display outgoing slack channel webhooks including links.
 
 ## Setup dev environment
 ---
-Run `virtualenv`
+Use `pipenv`
 
 ```shell
-virtualenv venv -p python3
+#install dependencies and virtualenv
+pipenv install --python 3.7
 
 #Then activate your virtual env
-source venv/bin/activate
+pipenv shell
+```
+## Running application
 
-#Install requirements
-pip install -r requirements.txt
+Once the postgres database is up and running and all requirements are installed.
+Export the Flask app in your terminal session.
+
+```shell
+export FLASK_APP=application.py
+```
+
+Then run the flask app
+
+```shell
+flask run
 ```
 
 ## Updating db and migrations
@@ -35,20 +47,7 @@ flask db migrate
 flask db upgrade
 
 ```
-## Running application
 
-Once the postgres database is up and running and all requirements are installed.
-Export the Flask app in your terminal session.
-
-```shell
-export FLASK_APP=run.py
-```
-
-Then run the flask app
-
-```shell
-flask run
-```
 
 
 
