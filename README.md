@@ -31,6 +31,12 @@ flask run
 ---
 **Have a postgres instance running on port 5432**
 
+Supplied is a `docker-compose.yml` if you want to run a postgres container.
+
+```shell
+docker-compose up
+```
+
 We are using Flask-Migrate to handle all the database migrations.
 For initial db setup:
 
