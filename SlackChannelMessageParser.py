@@ -51,6 +51,18 @@ class SlackChannelMessageParser:
                             db.session.close()
                         except:
                             db.session.rollback()
+                    elif subdict[i]["service_name"] == "Spotify":
+                        print(subdict[i]["title"])
+                        if "audio_html" and "thumb_url" in subdict[i]:
+                            data_inserted = TunesData(title=subdict[i]['title'], thumb_url=subdict[i]['thumb_url'],iframe_string=subdict[i]['audio_html'], media_url=subdict[i]['from_url'])
+                        else:
+                            data_inserted = TunesData(title=subdict[i]['title'],media_url=subdict[i]['from_url'])
+                        try:
+                            db.session.add(data_inserted)
+                            db.session.commit()
+                            db.session.close()
+                        except:
+                            db.session.rollback()
                 else:
                     continue                
             else:
