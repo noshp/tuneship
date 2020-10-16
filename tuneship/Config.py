@@ -3,7 +3,7 @@ import os
 class Config(object):
     DEBUG = False
     SECRET_KEY = '5602bcb11b65e1b97e86fec9244d832a25a292900bd8bb7786f273b2903aab5076f1e506'
-    SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:@localhost:5432/tuneship'
+    SQLALCHEMY_DATABASE_URI = 'postgresql://tuneship:tuneship@localhost:5435/tuneship'
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
     WTF_CSRF_ENABLE = True

@@ -1,11 +1,14 @@
 version: '3.1'
 
 services:
-    postgres: 
-        image: postgres
-        restart: always
+    tuneship-db: 
+        env_file: docker/.env
+        container_name: tuneship-db
+        build:
+            context: db
+            dockerfile: Dockerfile
         ports:
-            - 5432:5432
-        environment:
-            POSTGRES_DB: tuneship
-            POSTGRES_USER: postgres
+            - 5435:5432
+        restart: unless-stopped 
+        volumes:
+            - '/var/lib/postgresql/data'
